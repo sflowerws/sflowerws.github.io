@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[Hexo]]></title>
-  
+  <title><![CDATA[sflower's wastebin]]></title>
+  <subtitle><![CDATA[萌萌弱受，僵尸的好机油]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2014-10-11T14:56:33.404Z</updated>
+  <updated>2014-10-11T15:00:42.984Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name><![CDATA[John Doe]]></name>
+    <name><![CDATA[sflower]]></name>
     
   </author>
   
