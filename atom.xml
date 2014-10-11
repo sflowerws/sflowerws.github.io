@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[缩小花的垃圾箱]]></title>
+  <title><![CDATA[sflower's dustbin]]></title>
   <subtitle><![CDATA[僵尸的好鸡油萌萌弱受一枚]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://sflower.me/"/>
-  <updated>2014-10-11T10:23:12.031Z</updated>
-  <id>http://sflower.me/</id>
+  <link href="http://sflowerws.github.io/"/>
+  <updated>2014-10-11T13:11:48.564Z</updated>
+  <id>http://sflowerws.github.io/</id>
   
   <author>
     <name><![CDATA[sflower]]></name>
@@ -15,12 +15,34 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[ショップ大会（2014/10/9）优胜 M.HERO]]></title>
+    <link href="http://sflowerws.github.io/2014/10/11/deck2/"/>
+    <id>http://sflowerws.github.io/2014/10/11/deck2/</id>
+    <published>2014-10-11T12:56:30.000Z</published>
+    <updated>2014-10-11T12:58:38.000Z</updated>
+    <content type="html"><![CDATA[<p>ショップ大会（2014/10/9）优胜<a id="more"></a></p>
+<blockquote>
+<p>【合计：42枚／24种类】<br>怪兽（8枚／5种类）<br>1 Ｅ・ＨＥＲＯ 天空侠<br>3 Ｅ・ＨＥＲＯ 影雾女郎<br>2 Ｅ・ＨＥＲＯ 水泡侠<br>1 终末の骑士<br>1 ＢＦ－精锐のゼピュロス<br>魔法（23枚／13种类）<br>3 Ｅ－エマージェンシーコール<br>2 简易融合<br>1 大岚<br>1 愚蠢の埋葬<br>1 死者苏生<br>1 増援<br>1 灵魂补充<br>2 夜摄<br>2 英雄到来<br>1 奇迹融合<br>2 禁じられた圣杯<br>3 旋风<br>3 假面变化<br>陷阱（11枚／6种类）<br>3 强制脱出装置 通常罠<br>1 激流葬 通常罠<br>2 奈落の落とし穴<br>3 リビングデッドの呼び声<br>1 神の警告<br>1 神の宣告<br>EX（15枚／15种类）<br>1 旧神ノーデン<br>1 Ｍ・ＨＥＲＯ 暗爪<br>1 Ｍ・ＨＥＲＯ 酸水<br>1 Ｍ・ＨＥＲＯ 神风<br>1 嘎嘎嘎侍<br>1 机甲忍者ブレード・ハート<br>1 恐牙狼 ダイヤウルフ<br>1 深渊に潜む者<br>1 暗叛逆XYZ龙<br>1 大薰风翠玉<br>1 鸟铳士カステル<br>1 Ｎｏ.１０３ 神葬零嬢ラグナ・ゼロ<br>1 Ｎｏ.１６ 色の支配者ショック・ルーラー<br>1 Ｈ－Ｃ 断钢剑王<br>1 励辉士 ヴェルズビュート<br>SIDE（15枚／9种类）<br>2 冰手<br>2 火手<br>1 效果遮蒙者<br>1 黑洞<br>2 抹杀の使徒<br>1 禁じられた圣杯<br>3 神圣防护罩<br>2 王宫の号令<br>1 反查</p>
+</blockquote>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>ショップ大会（2014/10/9）优胜]]>
+    
+    </summary>
+    
+      <category term="卡组" scheme="http://sflowerws.github.io/tags/%E5%8D%A1%E7%BB%84/"/>
+    
+      <category term="游戏王" scheme="http://sflowerws.github.io/categories/%E6%B8%B8%E6%88%8F%E7%8E%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[刺猬神教的逆袭]]></title>
-    <link href="http://sflower.me/2014/10/11/deck1/"/>
-    <id>http://sflower.me/2014/10/11/deck1/</id>
+    <link href="http://sflowerws.github.io/2014/10/11/deck1/"/>
+    <id>http://sflowerws.github.io/2014/10/11/deck1/</id>
     <published>2014-10-11T09:22:03.000Z</published>
-    <updated>2014-10-11T10:21:55.000Z</updated>
-    <content type="html"><![CDATA[<p>刚刚在百度贴吧扒到的一副奇葩向的卡组</p>
+    <updated>2014-10-11T12:24:41.000Z</updated>
+    <content type="html"><![CDATA[<p>刚刚在百度贴吧扒到的一副奇葩向的卡组，主打刺猬螺丝和僵尸带菌者R2 OTK，号称能在任何情况下OTK<a id="more"></a></p>
 <p>作者是@薰风控脑膜  <a href="http://tieba.baidu.com/p/3334901675" target="_blank" rel="external">原帖地址</a></p>
 <p><img src="/img/4.jpg" alt="卡表"></p>
 <p><strong>文字卡表</strong></p>
@@ -41,24 +63,23 @@
 <p>总之，卡组对玩家操作要求很高，一次素材拔出的失误，就可能导致全盘皆输。<br>所以，有实力的童鞋和想装逼的童鞋，这个卡组，是你的不二选择！</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>刚刚在百度贴吧扒到的一副奇葩向的卡组</p>
-<p>作者是@薰风控脑膜  <a href="http://tieba.baidu.com/p/3334901675" target="_blank" rel="external">原帖地址</a></p>
-<p><img sr]]>
+    <![CDATA[<p>刚刚在百度贴吧扒到的一副奇葩向的卡组，主打刺猬螺丝和僵尸带菌者R2 OTK，号称能在任何情况下OTK]]>
+    
     </summary>
     
-      <category term="卡组" scheme="http://sflower.me/tags/%E5%8D%A1%E7%BB%84/"/>
+      <category term="卡组" scheme="http://sflowerws.github.io/tags/%E5%8D%A1%E7%BB%84/"/>
     
-      <category term="blog" scheme="http://sflower.me/categories/blog/"/>
+      <category term="游戏王" scheme="http://sflowerws.github.io/categories/%E6%B8%B8%E6%88%8F%E7%8E%8B/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[游戏王大师规则3]]></title>
-    <link href="http://sflower.me/2014/10/11/%E6%B8%B8%E6%88%8F%E7%8E%8B%E5%A4%A7%E5%B8%88%E8%A7%84%E5%88%993/"/>
-    <id>http://sflower.me/2014/10/11/游戏王大师规则3/</id>
+    <link href="http://sflowerws.github.io/2014/10/11/%E6%B8%B8%E6%88%8F%E7%8E%8B%E5%A4%A7%E5%B8%88%E8%A7%84%E5%88%993/"/>
+    <id>http://sflowerws.github.io/2014/10/11/游戏王大师规则3/</id>
     <published>2014-10-11T07:22:03.000Z</published>
-    <updated>2014-10-11T08:59:22.000Z</updated>
-    <content type="html"><![CDATA[<p>在2014年3月21日游戏王ARC-V OCG STARTER DECK发售之时即将适用的大师规则3的大致情况。<br>与大师规则2相比，主要变更点有五：<br><strong>1.利用“摇摆怪物”的“摇摆召唤”登场</strong><br><strong>2.先攻不抽卡</strong><br><strong>3.地形魔法共存</strong><br><strong>4.决斗场区域名简化</strong><br><strong>5.伤害步骤重新整合为五步</strong></p>
+    <updated>2014-10-11T12:28:09.000Z</updated>
+    <content type="html"><![CDATA[<p>在2014年3月21日游戏王ARC-V OCG STARTER DECK发售之时起适用的大师规则3的大致情况。<a id="more"></a><br>与大师规则2相比，主要变更点有五：<br><strong>1.利用“摇摆怪物”的“摇摆召唤”登场</strong><br><strong>2.先攻不抽卡</strong><br><strong>3.地形魔法共存</strong><br><strong>4.决斗场区域名简化</strong><br><strong>5.伤害步骤重新整合为五步</strong></p>
 <p><strong>一、摇摆召唤</strong><br>-什么是摇摆怪物<br>新登场的双底色怪物卡。平时当做怪物卡使用，可以当做魔法卡放进摇摆区域发动。带有摇摆召唤所必要的“摇摆刻度”。<br>底色是怪物卡与魔法卡各占一半。<br>-摇摆区域在哪里<br>决斗场上新设的区域，有左右两个，左侧的在地形区域和额外卡组区域之间，右侧的在墓地和卡组区域之间。<br>-摇摆召唤<br>在两个摇摆区域都放有摇摆怪物，就做好了进行摇摆召唤的准备。<br>摇摆怪物从场上送去墓地的场合，不去墓地而是表侧表示放进额外卡组。送进额外卡组的摇摆怪物在进行摇摆召唤的时候可以从额外卡组特殊召唤出场。<br>能把摇摆刻度之间的等级的怪物大量特殊召唤就是摇摆召唤的魅力，根据发动了的摇摆怪物的摇摆刻度，能简单地展开大量上级怪物·最上级怪物。<br>要点：<br>1.把摇摆怪物放进摇摆区域的时候，是当做魔法卡进行发动，必须表侧表示出场（不能覆盖在摇摆区域）。当做魔法卡，可以被“旋风”等破坏。<br>2.在摇摆区域发动了的摇摆怪物当做魔法卡，不当做怪物卡。不会被“黑洞”等破坏。<br>3.摇摆召唤能在一个时点同时进行多个怪物的特殊召唤。如果摇摆召唤被“神之宣告”无效，此时预定要进行摇摆召唤的所有怪物都送去墓地。</p>
 <p><strong>二、先攻不抽卡</strong><br>先攻第一回合，虽然有抽卡阶段，但不再进行通常抽卡。</p>
 <p><strong>三、地形魔法共存</strong><br>旧规则：双方场上只能有1张地形魔法表侧表示存在。<br>新规则：双方场上可以各有1张地形魔法表侧表示存在。（对方发动地形魔法，自己场上已经表侧表示的地形魔法毫发无损。）<br>并且，自己场上存在地形魔法，自己要发动或覆盖新的地形魔法的话，旧的地形魔法将按规则送去墓地，而不再视为破坏（不会触发“齿车街”）。</p>
@@ -96,12 +117,13 @@
 <p>摇摆召唤能从额外卡组出的怪物只有表侧表示存在于额外卡组的摇摆怪物，不能把同调怪物之类弄出来。</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>在2014年3月21日游戏王ARC-V OCG STARTER DECK发售之时即将适用的大师规则3的大致情况。<br>与大师规则2相比，主要变更点有五：<br><strong>1.利用“摇摆怪物”的“摇摆召唤”登场</strong><br><strong>2.先攻不抽卡<]]>
+    <![CDATA[<p>在2014年3月21日游戏王ARC-V OCG STARTER DECK发售之时起适用的大师规则3的大致情况。]]>
+    
     </summary>
     
-      <category term="博客/文章" scheme="http://sflower.me/tags/%E5%8D%9A%E5%AE%A2-%E6%96%87%E7%AB%A0/"/>
+      <category term="杂谈" scheme="http://sflowerws.github.io/tags/%E6%9D%82%E8%B0%88/"/>
     
-      <category term="blog" scheme="http://sflower.me/categories/blog/"/>
+      <category term="游戏王" scheme="http://sflowerws.github.io/categories/%E6%B8%B8%E6%88%8F%E7%8E%8B/"/>
     
   </entry>
   
