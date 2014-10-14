@@ -1,14 +1,14 @@
 
   
-    <!DOCTYPE HTML>
+          <!DOCTYPE HTML>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
   <meta name="baidu_union_verify" content="d1952c66cf48912e21c18c7c581f382a">
-  <meta name="360-site-verification" content="67fbcc5a67f4c65c057315b28fa0b2c8" />
-<meta name="google-site-verification" content="2GzxQ0VtXwTSUdmGm6DzcmhTzM_I9QmzCb_pzpMzD88" />
+  <meta name="360-site-verification" content="67fbcc5a67f4c65c057315b28fa0b2c8">
+<meta name="google-site-verification" content="2GzxQ0VtXwTSUdmGm6DzcmhTzM_I9QmzCb_pzpMzD88">
   
-    <title>suoyin | sflower&#39;s wastebin</title>
+    <title>相册 | sflower&#39;s wastebin</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
     
     <meta name="author" content="sflower">
@@ -24,19 +24,17 @@
     <link rel="icon" href="/img/favicon.ico">
     
     
+    <link rel="apple-touch-icon" href="/img/coney.png">
+    <link rel="apple-touch-icon-precomposed" href="/img/coney.png">
+    
     <link rel="stylesheet" href="/css/style.css" type="text/css">
 
-    
-    <script>
-        var _hmt = _hmt || [];
-        (function() {
-            var hm = document.createElement("script");
-            var _bdId ='391982416296a0d54221f59fe35250d4';
-             hm.src = "//hm.baidu.com/hm.js?" + _bdId;
-             var s = document.getElementsByTagName("script")[0]; 
-             s.parentNode.insertBefore(hm, s);
-        })();
-    </script>
+    <link rel="stylesheet" type="text/css" href="css/normalize.css">
+
+    <link rel="stylesheet" type="text/css" href="css/demo.css">
+
+    <link rel="stylesheet" type="text/css" href="css/component.css">
+
      
 </head>
 
@@ -45,7 +43,7 @@
           <div>
 		
 			<div id="imglogo">
-				<a href="/"><img src="/img/logo.svg" alt="sflower&#39;s wastebin" title="sflower&#39;s wastebin"/></a>
+				<a href="/"><img src="/img/logo.svg" alt="sflower&#39;s wastebin" title="sflower&#39;s wastebin"></a>
 			</div>
 			
 			<div id="textlogo">
@@ -60,285 +58,194 @@
 					 
 						<li><a href="/">主页</a></li>
 					
-						<li><a href="/archives">归档</a></li>
+						<li><a href="/archives">所有文档</a></li>
 					
-						<li><a href="/suoyin">索引</a></li>
+						<li><a href="/photos">索引</a></li>
 					
-					<li> <a title="再次警告千万别点，会出现比缩小花还恐怖的东西后果自负" href='javascript:(function() {
-	    function c() {
-		var e = document.createElement("link");
-		e.setAttribute("type", "text/css");
-		e.setAttribute("rel", "stylesheet");
-		e.setAttribute("href", f);
-		e.setAttribute("class", l);
-		document.body.appendChild(e)
-	}
- 
-	function h() {
-		var e = document.getElementsByClassName(l);
-		for (var t = 0; t < e.length; t++) {
-			document.body.removeChild(e[t])
-		}
-	}
- 
-	function p() {
-		var e = document.createElement("div");
-		e.setAttribute("class", a);
-		document.body.appendChild(e);
-		setTimeout(function() {
-			document.body.removeChild(e)
-		}, 100)
-	}
- 
-	function d(e) {
-		return {
-			height : e.offsetHeight,
-			width : e.offsetWidth
-		}
-	}
- 
-	function v(i) {
-		var s = d(i);
-		return s.height > e && s.height < n && s.width > t && s.width < r
-	}
- 
-	function m(e) {
-		var t = e;
-		var n = 0;
-		while (!!t) {
-			n += t.offsetTop;
-			t = t.offsetParent
-		}
-		return n
-	}
- 
-	function g() {
-		var e = document.documentElement;
-		if (!!window.innerWidth) {
-			return window.innerHeight
-		} else if (e && !isNaN(e.clientHeight)) {
-			return e.clientHeight
-		}
-		return 0
-	}
- 
-	function y() {
-		if (window.pageYOffset) {
-			return window.pageYOffset
-		}
-		return Math.max(document.documentElement.scrollTop, document.body.scrollTop)
-	}
- 
-	function E(e) {
-		var t = m(e);
-		return t >= w && t <= b + w
-	}
- 
-	function S() {
-		var e = document.createElement("audio");
-		e.setAttribute("class", l);
-		e.src = i;
-		e.loop = false;
-		e.addEventListener("canplay", function() {
-			setTimeout(function() {
-				x(k)
-			}, 500);
-			setTimeout(function() {
-				N();
-				p();
-				for (var e = 0; e < O.length; e++) {
-					T(O[e])
-				}
-			}, 15500)
-		}, true);
-		e.addEventListener("ended", function() {
-			N();
-			h()
-		}, true);
-		e.innerHTML = " <p>If you are reading this, it is because your browser does not support the audio element. We recommend that you get a new browser.</p> <p>";
-		document.body.appendChild(e);
-		e.play()
-	}
- 
-	function x(e) {
-		e.className += " " + s + " " + o
-	}
- 
-	function T(e) {
-		e.className += " " + s + " " + u[Math.floor(Math.random() * u.length)]
-	}
- 
-	function N() {
-		var e = document.getElementsByClassName(s);
-		var t = new RegExp("\\b" + s + "\\b");
-		for (var n = 0; n < e.length; ) {
-			e[n].className = e[n].className.replace(t, "")
-		}
-	}
- 
-	var e = 30;
-	var t = 30;
-	var n = 350;
-	var r = 350;
-	var i = "//sc.111ttt.com/up/mp3/404727/5BF45A20A432DB636EB1EDACE2A20F01.mp3";
-	var s = "mw-harlem_shake_me";
-	var o = "im_first";
-	var u = ["im_drunk", "im_baked", "im_trippin", "im_blown"];
-	var a = "mw-strobe_light";
-	var f = "//s3.amazonaws.com/moovweb-marketing/playground/harlem-shake-style.css";
-	var l = "mw_added_css";
-	var b = g();
-	var w = y();
-	var C = document.getElementsByTagName("*");
-	var k = null;
-	for (var L = 0; L < C.length; L++) {
-		var A = C[L];
-		if (v(A)) {
-			if (E(A)) {
-				k = A;
-				break
-			}
-		}
-	}
-	if (A === null) {
-		console.warn("Could not find a node of the right size. Please try a different page.");
-		return
-	}
-	c();
-	S();
-	var O = [];
-	for (var L = 0; L < C.length; L++) {
-		var A = C[L];
-		if (v(A)) {
-			O.push(A)
-		}
-	}
-})()    '>别点</a> </li>
 					<li>
 					
-                                            <form class="search" action=http://search.gengbiao.me/cse/search target="_blank">
+                                            <form class="search" action="http://zhannei.baidu.com/cse/searchtarget="_blank"">
                                             <label>Search</label>
-                                        <input name="s" type="hidden" value= 2049782880735612718 ><input type="text" name="q" size="30" placeholder="搜索"><br>
+                                        <input name="s" type="hidden" value="null"><input type="text" name="q" size="30" placeholder="搜索"><br>
 					
-					</li>
+					</form></li>
 				</ul>
-                            </nav>			
+                            </ul></nav>			
 </div>
 
         </header>
         <div id="container">
-          <div id="main" class="page" itemscope itemprop="blogPost">
+          <div id="main" class="page" itemscope="" itemprop="blogPost">
 	<article itemprop="articleBody"> 
 		<header class="article-info clearfix">
-  <h1 itemprop="name">
-    
-      <a href="/suoyin/index.html" title="suoyin" itemprop="url">suoyin</a>
-  </h1>
-  <p class="article-author">By
-    
-      <a href="sflower.me" title="sflower">sflower</a>
-    </p>
-  <p class="article-time">
-    <time datetime="2014-10-14T06:21:44.000Z" itemprop="datePublished">10月 14 2014</time>
-    更新日期:<time datetime="2014-10-14T06:21:44.000Z" itemprop="dateModified">10月 14 2014</time>
-    
-  </p>
+  
+
 </header>
-	<div class="article-content">
-		
-		
-		  
-	</div>
+	<div class="container">
+    <div class="grid">
+        <figure class="effect-lily">
+            <img src="img/1.jpg" alt="img01">
+            <figcaption>
+                <h2>Nice <span>Lily</span></h2>
+                <p>Lily likes to play with crayons and pencils</p>
+                <a href="http://sflower.me/" target="_blank">View more</a>
+            </figcaption>			
+        </figure>
+        <figure class="effect-sadie">
+            <img src="img/2.jpg" alt="img02">
+            <figcaption>
+                <h2>Holy <span>Sadie</span></h2>
+                <p>Sadie never took her eyes off me. <br>She had a dark soul.</p>
+                <a href="http://sflower.me/" target="_blank">View more</a>
+            </figcaption>			
+        </figure>
+        <figure class="effect-honey">
+            <img src="img/7.jpg" alt="img07">
+            <figcaption>
+                <h2>Dreamy <span>Honey</span> <i>Now</i></h2>
+                <a href="http://sflower.me/" target="_blank">View more</a>
+            </figcaption>			
+        </figure>
+        <figure class="effect-layla">
+            <img src="img/4.jpg" alt="img04">
+            <figcaption>
+                <h2>Crazy <span>Layla</span></h2>
+                <p>When Layla appears, she brings an eternal summer along.</p>
+                <a href="http://sflower.me/" target="_blank">View more</a>
+            </figcaption>			
+        </figure>
+        <figure class="effect-zoe">
+            <img src="img/14.jpg" alt="img14">
+            <figcaption>
+                <h2>Creative <span>Zoe</span></h2>
+                <span class="icon-heart"></span>
+                <span class="icon-eye"></span>
+                <span class="icon-paper-clip"></span>
+                <p>Zoe never had the patience of her sisters. She deliberately punched the bear in his face.</p>
+                <a href="http://sflower.me/" target="_blank">View more</a>
+            </figcaption>			
+        </figure>
+        <figure class="effect-oscar">
+            <img src="img/8.jpg" alt="img08">
+            <figcaption>
+                <h2>Warm <span>Oscar</span></h2>
+                <p>Oscar is a decent man. He used to clean porches with pleasure.</p>
+                <a href="http://sflower.me/" target="_blank">View more</a>
+            </figcaption>			
+        </figure>
+        <figure class="effect-marley">
+            <img src="img/9.jpg" alt="img09">
+            <figcaption>
+                <h2>Sweet <span>Marley</span></h2>
+                <p>Marley tried to convince her but she was not interested.</p>
+                <a href="http://sflower.me/" target="_blank">View more</a>
+            </figcaption>			
+        </figure>
+        <figure class="effect-ruby">
+            <img src="img/10.jpg" alt="img10">
+            <figcaption>
+                <h2>Glowing <span>Ruby</span></h2>
+                <p>Ruby did not need any help. Everybody knew that.</p>
+                <a href="http://sflower.me/" target="_blank">View more</a>
+            </figcaption>			
+        </figure>
+        <figure class="effect-roxy">
+            <img src="img/3.jpg" alt="img03">
+            <figcaption>
+                <h2>Charming <span>Roxy</span></h2>
+                <p>Roxy was my best friend. She'd cross any border for me.</p>
+                <a href="http://sflower.me/" target="_blank">View more</a>
+            </figcaption>			
+        </figure>
+        <figure class="effect-bubba">
+            <img src="img/6.jpg" alt="img06">
+            <figcaption>
+                <h2>Fresh <span>Bubba</span></h2>
+                <p>Bubba likes to appear out of thin air.</p>
+                <a href="http://sflower.me/" target="_blank">View more</a>
+            </figcaption>			
+        </figure>
+        <figure class="effect-romeo">
+            <img src="img/5.jpg" alt="img05">
+            <figcaption>
+                <h2>Wild <span>Romeo</span></h2>
+                <p>Romeo never knows what he wants. He seemed to be very cross about something.</p>
+                <a href="http://sflower.me/" target="_blank">View more</a>
+            </figcaption>			
+        </figure>
+        <figure class="effect-dexter">
+            <img src="img/12.jpg" alt="img12">
+            <figcaption>
+                <h2>Strange <span>Dexter</span></h2>
+                <p>Dexter had his own strange way. You could watch him training ants.</p>
+                <a href="http://sflower.me/" target="_blank">View more</a>
+            </figcaption>			
+        </figure>
+        <figure class="effect-sarah">
+            <img src="img/13.jpg" alt="img13">
+            <figcaption>
+                <h2>Free <span>Sarah</span></h2>
+                <p>Sarah likes to watch clouds. She's quite depressed.</p>
+                <a href="http://sflower.me/" target="_blank">View more</a>
+            </figcaption>			
+        </figure>
+        <figure class="effect-chico">
+            <img src="img/15.jpg" alt="img15">
+            <figcaption>
+                <h2>Silly <span>Chico</span></h2>
+                <p>Chico's main fear was missing the morning bus.</p>
+                <a href="http://sflower.me/" target="_blank">View more</a>
+            </figcaption>			
+        </figure>
+        <figure class="effect-milo">
+            <img src="img/11.jpg" alt="img11">
+            <figcaption>
+                <h2>Faithful <span>Milo</span></h2>
+                <p>Milo went to the woods. He took a fun ride and never came back.</p>
+                <a href="http://sflower.me/" target="_blank">View more</a>
+            </figcaption>			
+        </figure>
+    </div>
+</div>
+  
+	</article></div>
 		<footer class="article-footer clearfix">
 
 
 
+<script type="text/javascript">
+  var duoshuoQuery = {short_name:"sflower"};
+  (function() {
+    var ds = document.createElement('script');
+    ds.type = 'text/javascript';ds.async = true;
+    ds.src = '//static.duoshuo.com/embed.js';
+    ds.charset = 'UTF-8';
+    (document.getElementsByTagName('head')[0] 
+    || document.getElementsByTagName('body')[0]).appendChild(ds);
+  })();
+</script> 
 
-<div class="article-share" id="share">
 
-  <div data-url="sflower.me/suoyin/index.html" data-title="suoyin | sflower&#39;s wastebin" data-tsina="5184726095" class="share clearfix">
-  </div>
 
-</div>
-</footer>   	       
-	</article>
-	
-	
-</div>  
-        </div>
-        <script src="/js/jquery-2.1.0.min.js"></script>
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css" media="screen" type="text/css">
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
 <script type="text/javascript">
 $(document).ready(function(){ 
-  $('.navbar').click(function(){
-    $('header nav').toggleClass('shownav');
-  });
-  var myWidth = 0;
-  function getSize(){
-    if( typeof( window.innerWidth ) == 'number' ) {
-      myWidth = window.innerWidth;
-    } else if( document.documentElement && document.documentElement.clientWidth) {
-      myWidth = document.documentElement.clientWidth;
-    };
-  };
-  var m = $('#main'),
-      a = $('#asidepart'),
-      c = $('.closeaside'),
-      o = $('.openaside');
-  $(window).resize(function(){
-    getSize(); 
-    if (myWidth >= 1024) {
-      $('header nav').removeClass('shownav');
-    }else
-    {
-      m.removeClass('moveMain');
-      a.css('display', 'block').removeClass('fadeOut');
-      o.css('display', 'none');
-        
-    }
-  });
-  c.click(function(){
-    a.addClass('fadeOut').css('display', 'none');
-    o.css('display', 'block').addClass('fadeIn');
-    m.addClass('moveMain');
-  });
-  o.click(function(){
-    o.css('display', 'none').removeClass('beforeFadeIn');
-    a.css('display', 'block').removeClass('fadeOut').addClass('fadeIn');      
-    m.removeClass('moveMain');
-  });
-  $(window).scroll(function(){
-    o.css("top",Math.max(80,260-$(this).scrollTop()));
-  });
-});
-</script>
-
-
-<script type="text/javascript">
-$(document).ready(function(){ 
-  var $this = $('.share'),
-      url = $this.attr('data-url'),
-      encodedUrl = encodeURIComponent(url),
-      title = $this.attr('data-title'),
-      tsina = $this.attr('data-tsina');
-  var html = [
-  '<a href="#" class="overlay" id="qrcode"></a>',
-  '<div class="qrcode clearfix"><span>扫描二维码分享到微信朋友圈</span><a class="qrclose" href="#share"></a><strong>Loading...Please wait</strong><img id="qrcode-pic" data-src="http://s.jiathis.com/qrcode.php?url=' + encodedUrl + '"/></div>',
-  '<a href="#textlogo" class="article-back-to-top" title="Top"></a>',
-  '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="article-share-facebook" target="_blank" title="Facebook"></a>',
-  '<a href="#qrcode" class="article-share-qrcode" title="QRcode"></a>',
-  '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="article-share-twitter" target="_blank" title="Twitter"></a>',
-  '<a href="http://service.weibo.com/share/share.php?title='+title+'&url='+encodedUrl +'&ralateUid='+ tsina +'&searchPic=true&style=number' +'" class="article-share-weibo" target="_blank" title="Weibo"></a>',
-  '<span title="Share to"></span>'
-  ].join('');
-  $this.append(html);
-  $('.article-share-qrcode').click(function(){
-    var imgSrc = $('#qrcode-pic').attr('data-src');
-    $('#qrcode-pic').attr('src', imgSrc);
-    $('#qrcode-pic').load(function(){
-        $('.qrcode strong').text(' ');
+  $('.article-content').each(function(i){
+    $(this).find('img').each(function(){
+      if ($(this).parent().hasClass('fancybox')) return;
+      var alt = this.alt;
+      if (alt) $(this).after('<span class="caption">' + alt + '</span>');
+      $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class="fancybox"></a>');
+    });
+    $(this).find('.fancybox').each(function(){
+      $(this).attr('rel', 'article' + i);
     });
   });
-});     
+  if($.fancybox){
+    $('.fancybox').fancybox();
+  }
+}); 
 </script>
 
 
@@ -346,29 +253,7 @@ $(document).ready(function(){
 
 
 
-<script>
-     window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":["qzone","tsina","weixin","renren","tqq","tieba","douban","sqq","diandian","huaban","youdao","mail","ty","fbook","twi","linkedin","copy","print"],"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"4","bdPos":"right","bdTop":"350"},"image":{"viewList":["weixin","qzone","tsina","renren","douban","tqq"],"viewText":"分享：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["weixin","qzone","tsina","renren","douban","tqq"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
-</script>
 
-
-<script type="text/javascript">
-    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
-    var _bdId = '391982416296a0d54221f59fe35250d4';
-    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F" + _bdId +"'  type='text/javascript'%3E%3C/script%3E"));
-</script>
-
-
-
-<script type="text/javascript">
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-55273525-1', 'gengbiao.me');  
-ga('send', 'pageview');
-</script>
-
-
-      </body>
+      </footer></div></body>
      </html>
-     
+  
